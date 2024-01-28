@@ -68,14 +68,13 @@ main {
 
 .weather-temperature {
   font-size: 88px;
-  margin-left: 5px;
   line-height: 88px;
   font-weight: bold;
 }
 
 .weather-icon {
-  font-size: 45px;
-  margin-top: 24px;
+  width: 88px;
+  height: 88px;
 }
 
 .weather-unit {
